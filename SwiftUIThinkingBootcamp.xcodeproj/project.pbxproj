@@ -6,13 +6,8 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		EE5E02B82E61FEAC0056FAFD /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE5E02B72E61FEAC0056FAFD /* TextBootcamp.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		EE5E028A2E61FE8A0056FAFD /* SwiftUIThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		EE5E02B72E61FEAC0056FAFD /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -37,7 +32,6 @@
 		EE5E02812E61FE8A0056FAFD = {
 			isa = PBXGroup;
 			children = (
-				EE5E02B72E61FEAC0056FAFD /* TextBootcamp.swift */,
 				EE5E028C2E61FE8A0056FAFD /* SwiftUIThinkingBootcamp */,
 				EE5E028B2E61FE8A0056FAFD /* Products */,
 			);
@@ -125,7 +119,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE5E02B82E61FEAC0056FAFD /* TextBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
